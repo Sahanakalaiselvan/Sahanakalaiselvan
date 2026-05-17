@@ -195,7 +195,6 @@ Interactive analytics dashboard for visualizing business insights and performanc
 ### ✨ Features
 - Interactive charts & reports
 - Data visualization
-- KPI monitoring
 - Business insights dashboard
 
 ### ⚙️ Tech Stack
@@ -229,11 +228,11 @@ Interactive analytics dashboard for visualizing business insights and performanc
 
 # 🏆 PROFILE HIGHLIGHTS
 
-💻 Full Stack Development &nbsp;&nbsp; • &nbsp;&nbsp;
-🤖 AI & Computer Vision &nbsp;&nbsp; • &nbsp;&nbsp;
-⚡ Backend Engineering &nbsp;&nbsp; • &nbsp;&nbsp;
-📊 Database Design &nbsp;&nbsp; • &nbsp;&nbsp;
-🚀 Real-World Projects
+💻Full Stack Development &nbsp;&nbsp; • &nbsp;&nbsp;
+🤖AI & Computer Vision &nbsp;&nbsp; • &nbsp;&nbsp;
+⚡Backend Engineering &nbsp;&nbsp; • &nbsp;&nbsp;
+📊Database Design &nbsp;&nbsp; • &nbsp;&nbsp;
+🚀Real-World Projects
 
 </div>
 
