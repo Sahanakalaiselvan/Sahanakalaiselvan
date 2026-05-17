@@ -18,7 +18,7 @@
 
 <div align="center">
 
-# ⚡ ABOUT ME
+#  ABOUT ME
 
 </div>
 
@@ -188,18 +188,18 @@ Interactive React shopping interface focused on optimized performance and clean 
 
 <td width="50%" valign="top">
 
-## 🐄 Real-Time Cattle Detection
+## 📊 Data Analytics Dashboard
 
-AI-powered Computer Vision road safety system for real-time cattle detection and alert generation.
+Interactive analytics dashboard for visualizing business insights and performance metrics.
 
 ### ✨ Features
-- Real-time object detection
-- Alert generation system
-- Video stream processing
-- Smart monitoring system
+- Interactive charts & reports
+- Data visualization
+- KPI monitoring
+- Business insights dashboard
 
 ### ⚙️ Tech Stack
-`Python` `OpenCV` `YOLO`
+`Power BI` `Excel` `Data Analytics`
 
 </td>
 
