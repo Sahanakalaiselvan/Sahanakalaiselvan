@@ -18,40 +18,43 @@
 
 <div align="center">
 
+---
+
+<div align="center">
+
 # ⚡ PROFESSIONAL PROFILE
 
 </div>
 
-<table align="center">
-<tr>
-<td>
+<p align="center">
 
-```yaml
-Name: Sahana.K
-Role: Java Full Stack Developer
+💻 <b>Java Full Stack Developer</b> passionate about building scalable web applications and intelligent real-world solutions.
 
-Specialization:
-  - Full Stack Web Development
-  - AI & Computer Vision
-  - Backend Engineering
-  - REST API Development
-  - Database Management
+🤖 Strong interest in <b>AI, Computer Vision, Backend Engineering</b>, and modern software architecture.
 
-Current Focus:
-  - Spring Boot Applications
-  - React Frontend Development
-  - FastAPI APIs
-  - System Design
-  - Scalable Software Architecture
-```
+🚀 Currently focused on developing high-performance applications using 
+<b>Spring Boot</b>, <b>React</b>, <b>FastAPI</b>, and <b>PostgreSQL</b>.
 
-</td>
-</tr>
-</table>
+📚 Continuously improving problem-solving skills through 
+<b>DSA</b>, <b>System Design</b>, and real-world project development.
+
+</p>
 
 ---
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-00F7FF?style=for-the-badge&logo=icloud&logoColor=black" />
+
+<img src="https://img.shields.io/badge/AI%20%26%20Computer%20Vision-A855F7?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Backend%20Engineering-0D1117?style=for-the-badge&logo=springboot&logoColor=00F7FF" />
+
+<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge&logo=codersrank&logoColor=white" />
+
+</div>
+
+---
 
 # 💻 TECHNOLOGIES & TOOLS
 
