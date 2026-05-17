@@ -187,18 +187,7 @@
 
 <td width="50%">
 
-## 🐄 Real-Time Cattle Detection
 
-✨ AI-powered Computer Vision road safety solution for detecting cattle in real-time environments.
-
-### 🔹 Key Features
-- Real-time object detection
-- Alert generation system
-- Video stream processing
-- Smart monitoring system
-
-### ⚙️ Tech Stack
-`Python` `OpenCV` `YOLO`
 
 </td>
 </tr>
