@@ -4,12 +4,12 @@
 
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> <span style="font-family:Orbitron; color:#00F7FF;">SAHANA.K</span>
+# <span style="color:#00F7FF;">SAHANA.K</span>
 
 ### <span style="color:#A855F7;">Java Full Stack Developer</span> • <span style="color:#00F7FF;">AI & Computer Vision Enthusiast</span>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;AI-Powered+Solutions;Spring+Boot+Backend+Developer;React+Frontend+Developer;FastAPI+Developer;Problem+Solver+%26+DSA+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;AI-Powered+Solutions;Spring+Boot+Backend+Developer;React+Frontend+Developer;FastAPI+Developer;Problem+Solver+%26+DSA+Learner" />
 </p>
 
 </div>
@@ -18,25 +18,19 @@
 
 <div align="center">
 
----
-
-<div align="center">
-
-# ABOUT 
+# ⚡ ABOUT ME
 
 </div>
 
 <p align="center">
 
-💻 <b>Java Full Stack Developer</b> passionate about building scalable web applications and intelligent real-world solutions.
+💻 Passionate <b>Java Full Stack Developer</b> focused on building scalable, efficient, and real-world software applications.
 
-🤖 Strong interest in <b>AI, Computer Vision, Backend Engineering</b>, and modern software architecture.
+🤖 Interested in <b>AI, Computer Vision, Backend Engineering</b>, and modern web technologies.
 
-🚀 Currently focused on developing high-performance applications using 
-<b>Spring Boot</b>, <b>React</b>, <b>FastAPI</b>, and <b>PostgreSQL</b>.
+🚀 Currently developing applications using <b>Spring Boot</b>, <b>React</b>, <b>FastAPI</b>, and <b>PostgreSQL</b>.
 
-📚 Continuously improving problem-solving skills through 
-<b>DSA</b>, <b>System Design</b>, and real-world project development.
+📚 Continuously improving through <b>DSA</b>, <b>System Design</b>, and hands-on project development.
 
 </p>
 
@@ -48,13 +42,15 @@
 
 <img src="https://img.shields.io/badge/AI%20%26%20Computer%20Vision-A855F7?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Backend%20Engineering-0D1117?style=for-the-badge&logo=springboot&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Backend%20Engineering-111827?style=for-the-badge&logo=springboot&logoColor=00F7FF" />
 
-<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge&logo=codersrank&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logo=codersrank&logoColor=white" />
 
 </div>
 
 ---
+
+<div align="center">
 
 # 💻 TECHNOLOGIES & TOOLS
 
@@ -77,13 +73,13 @@
 </div>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sahanakalaiselvan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=A855F7&text_color=FFFFFF" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sahanakalaiselvan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=A855F7&text_color=FFFFFF" />
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahanakalaiselvan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahanakalaiselvan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahanakalaiselvan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=A855F7&fire=00F7FF&currStreakLabel=FFFFFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahanakalaiselvan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=A855F7&fire=00F7FF&currStreakLabel=FFFFFF" />
 </p>
 
 ---
@@ -96,66 +92,69 @@
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ## 🤖 AI Form Assistant
 
-✨ Intelligent AI-powered automation platform designed for seamless form handling and smart user interaction.
+AI-powered smart automation platform designed for intelligent form handling and seamless user interaction.
 
-### 🔹 Key Features
+### ✨ Features
 - Smart form suggestions
-- AI-based response automation
+- AI-based automation
 - Dynamic validation system
-- Interactive user experience
+- Interactive UI experience
 
 ### ⚙️ Tech Stack
-`Python` `FastAPI` `AI` `PostgreSQL`
+`Python` `FastAPI` `PostgreSQL`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🚗 Carpooling System
 
-✨ Enterprise-style ride-sharing application with scalable backend architecture and secure booking system.
+Scalable ride-sharing platform with secure authentication and enterprise-level backend architecture.
 
-### 🔹 Key Features
-- Secure authentication
-- Ride scheduling
+### ✨ Features
+- Ride scheduling system
 - REST API integration
+- User authentication
 - Driver-passenger matching
 
 ### ⚙️ Tech Stack
 `Spring Boot` `Java` `MySQL`
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ## 🧺 Laundry Management System
 
-✨ Complete hostel laundry ecosystem with order tracking, admin dashboard, notifications, and scheduling.
+Complete hostel laundry management ecosystem with tracking, scheduling, and admin functionalities.
 
-### 🔹 Key Features
-- Order tracking system
+### ✨ Features
+- Order tracking
 - Pickup scheduling
-- Admin management dashboard
-- Feedback & notifications
+- Admin dashboard
+- Notifications & feedback
 
 ### ⚙️ Tech Stack
 `FastAPI` `PostgreSQL` `JavaScript`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🎁 Gift Shop Full Stack Application
 
-✨ Modern e-commerce inspired application with responsive frontend and backend integration.
+Modern e-commerce inspired platform with responsive UI and backend integration.
 
-### 🔹 Key Features
+### ✨ Features
 - Product management
 - Shopping cart system
 - Authentication
@@ -165,16 +164,18 @@
 `React` `FastAPI` `MySQL`
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ## ⚛️ Gift Shop using React
 
-✨ Interactive React-based shopping interface with clean UI design and optimized frontend performance.
+Interactive React shopping interface focused on optimized performance and clean design.
 
-### 🔹 Key Features
+### ✨ Features
 - Dynamic UI components
 - Optimized rendering
 - Responsive design
@@ -185,12 +186,25 @@
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
+## 🐄 Real-Time Cattle Detection
 
+AI-powered Computer Vision road safety system for real-time cattle detection and alert generation.
+
+### ✨ Features
+- Real-time object detection
+- Alert generation system
+- Video stream processing
+- Smart monitoring system
+
+### ⚙️ Tech Stack
+`Python` `OpenCV` `YOLO`
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -205,7 +219,7 @@
 
 <img src="https://img.shields.io/badge/Spring%20Boot-00F7FF?style=for-the-badge&logo=springboot&logoColor=black" />
 
-<img src="https://img.shields.io/badge/AI%20Integration-0D1117?style=for-the-badge&logo=openai&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/AI%20Integration-111827?style=for-the-badge&logo=openai&logoColor=A855F7" />
 
 </div>
 
@@ -237,13 +251,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sahanakalaiselvan&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-
-</div>
----
-
-<div align="center">
-
 # 🐍 CONTRIBUTION SNAKE
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -251,3 +258,9 @@
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sahanakalaiselvan&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+
+</div>
