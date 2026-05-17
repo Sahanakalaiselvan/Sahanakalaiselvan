@@ -22,7 +22,7 @@
 
 <div align="center">
 
-# ⚡ PROFESSIONAL PROFILE
+# ABOUT 
 
 </div>
 
