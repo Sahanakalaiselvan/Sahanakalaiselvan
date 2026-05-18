@@ -112,19 +112,21 @@ AI-powered smart automation platform designed for intelligent form handling and 
 
 <td width="50%" valign="top">
 
-## 🚗 Carpooling System
+## 🔍 Post Found System
 
-Scalable ride-sharing platform with secure authentication and enterprise-level backend architecture.
+Smart lost and found management platform designed to help users report, track, and claim lost items efficiently with secure authentication and cloud-based storage.
 
 ### ✨ Features
-- Ride scheduling system
+- Lost & found item posting
+- Secure JWT authentication
+- Image upload using Cloudinary
 - REST API integration
-- User authentication
-- Driver-passenger matching
+- Claim request management
+- Responsive full-stack UI
+- Supabase PostgreSQL database integration
 
 ### ⚙️ Tech Stack
-`Spring Boot` `Java` `MySQL`
-
+`Spring Boot` `Java` `Vue.js` `PostgreSQL` `Supabase` `Cloudinary` `JWT Authentication`
 </td>
 
 </tr>
